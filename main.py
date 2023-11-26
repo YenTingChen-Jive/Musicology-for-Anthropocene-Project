@@ -3,7 +3,6 @@ from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout
 import pyaudio
 import threading
 from pydub import AudioSegment
-import pyaudio
 import numpy as np
 
 class AugmentedAudioApp(QWidget):
