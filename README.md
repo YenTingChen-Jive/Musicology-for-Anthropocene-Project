@@ -1,4 +1,5 @@
-# Augmented Audio Reality (AAR)
+# Replies to the Sixth Extinction: Preserving and Mourning
+Augmented Audio Reality (AAR)
 Final Project - Applied Musicology for the Anthropocene (National Taiwan University, 112-1.)
 
 ## Official Website
