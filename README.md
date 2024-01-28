@@ -1,6 +1,9 @@
 # Augmented Audio Reality (AAR)
 Final Project - Applied Musicology for the Anthropocene (National Taiwan University, 112-1.)
 
+## Official Website
+https://appliedmusanth.wordpress.com/2023/12/11/group-3/
+
 ## Flow Chart
 ![flow-chart](https://github.com/Zen-Tsai/Musicology/blob/main/flow-chart.jpg?raw=true)
 
