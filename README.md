@@ -3,6 +3,7 @@ Augmented Audio Reality (AAR) - Applied Musicology for the Anthropocene (Nationa
 
 ## Abstract
 Designed an interactive device in public areas, recording real-time ambient sounds to explore the intricate relationship between human activities and nature.
+
 Implemented spectrogram analysis to trigger the playback of recorded cries from endangered species, fostering awareness of the concept of the Anthropocene.
 
 ## Official Website
